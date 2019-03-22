@@ -64,6 +64,7 @@ API: [http://jpcap.gitspot.com/javadoc/index.html](http://jpcap.gitspot.com/java
 （5）根据用户点击的内容，对该包进行解析，显示详细内容
 
 #### 4.模块功能清单
+```
 Main.java  程序入口
 MyInterface.java  程序界面类
 NetworkCard.java  网卡类
@@ -80,7 +81,7 @@ PacketAnalyze.java  解析包类
 |-- ICMPanalyze() 解析ICMP数据包
 |-- TCPanalyze() 解析TCP数据包
 |__UDPanalyze() 解析UDP数据包
-
+```
 #### 5.运行截图
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181230150107559.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0ODM4NjQz,size_16,color_FFFFFF,t_70)
 
